@@ -6,7 +6,7 @@ namespace backEnd
 {
      public class Evento
     {
-        public int id { get; set; }
+        public int Id { get; set; }
 
         public DateTime data { get; set; }
 
